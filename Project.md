@@ -23,7 +23,7 @@
 
 2. GET /entry
 3. GET entry/{id}
-4. Add authentication mechanim - JWT, tenantId management etc.
+4. Add authentication mechanism - JWT, tenantId management etc.
 
 
 
